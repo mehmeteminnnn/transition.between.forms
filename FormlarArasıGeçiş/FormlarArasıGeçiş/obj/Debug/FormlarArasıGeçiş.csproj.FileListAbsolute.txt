@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Form1.resources
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe.config
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.pdb
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.exe
+C:\Users\mhmtm\Desktop\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.pdb
